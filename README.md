@@ -29,4 +29,14 @@ No se requieren librerías externas.
    ```bash
    git clone https://github.com/Christian-Garcia-H/cifrado-cesar-espanol.git
    cd cifrado-cesar-espanol/src
+2. ejemplo de uso
+```bash
+python3 cifradoCESAR.py
+
+
+#Texto cifrado: jq xnxyjrf mf xnij htruutsjinyj
+#Nivel de exactitud (recomendado 0.45): 0.45
+
+#[+] El texto descifrado es: el sistema ha sido comprometido
+#[+] Se consiguió a los: 5 intentos.
 
